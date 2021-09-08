@@ -66,7 +66,7 @@ myBird.fly();
 - Can you do some research to find out how to represent an abstract class in a UML diagram? 
 - Hint: It could be just a small change to the font-style of your class/abstract method e.g. *italics*
 
-An example solution to the diagram is available [here](../solutions/activity_4_exercise_4.3.png).
+An example solution to the diagram is available [here](../../solutions/activity_4_exercise_4.3.png).
 
 ---
 
@@ -117,7 +117,7 @@ Delicious pizza!
 
 - Update and add a `Penguin` subclass to your diagram. The `Penguin` extends the base class `Bird` and it will override the methods `speak()` and `fly()`.
 
-An example solution to the diagram is available [here](../solutions/activity_4_exercise_4.6.png).
+An example solution to the diagram is available [here](../../solutions/activity_4_exercise_4.6.png).
 
 ---
 
@@ -183,7 +183,7 @@ In this exercise, create your very own `Parrot` class that extends the base clas
 
 ### What's next?
 
-Head over to [Introduction to Interfaces in Activity 5](./activity_5.md) to learn more.
+Head over to [Introduction to Interfaces in Activity 5](activity_5.md) to learn more.
 
 ---
 

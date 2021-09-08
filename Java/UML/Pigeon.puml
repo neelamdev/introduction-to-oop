@@ -1,0 +1,9 @@
+@startuml
+
+class Pigeon{
+eatPizza()
+Speak()
+sleep()
+}
+
+@enduml

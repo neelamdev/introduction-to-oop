@@ -60,7 +60,7 @@ Methods:
 
 The methods don't have a return data type as they will be writing output strings to the console.
 
-An example solution to the diagram is available [here](../solutions/activity_2_exercise_2.3.png).
+An example solution to the diagram is available [here](../../solutions/activity_2_exercise_2.3.png).
 
 ---
 
@@ -123,7 +123,7 @@ I'm Tweety and I can fly high in the blue sky!
 
 ### What's next?
 
-What if we wanted to create a pigeon that behaves just like a bird? It wouldn't be good to repeat the same code again in another class called `Pigeon`. What if there was a `Chicken` as well, it wouldn't be nice to have that code again every time we wanted to replicate the same set of attributes and behaviours. How can we form relationships between classes in code? Could we borrow the concept of inheritance from the natural world to help us? Head over to [Introduction to Inheritance in Activity 3](./activity_3.md) to find out more.
+What if we wanted to create a pigeon that behaves just like a bird? It wouldn't be good to repeat the same code again in another class called `Pigeon`. What if there was a `Chicken` as well, it wouldn't be nice to have that code again every time we wanted to replicate the same set of attributes and behaviours. How can we form relationships between classes in code? Could we borrow the concept of inheritance from the natural world to help us? Head over to [Introduction to Inheritance in Activity 3](activity_3.md) to find out more.
 
 ---
 
